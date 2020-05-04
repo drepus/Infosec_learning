@@ -11,3 +11,6 @@ National CyberLeague runs a CTF in the Spring and Fall
 ----------------------------------------------------------------------------------------------------------------------------
 # Infosec Tools
 * [Burp decrypting/analyzing TLS without MITM] (https://blog.silentsignal.eu/2020/05/04/decrypting-and-analyzing-https-traffic-without-mitm/) Burp suite add in that can import initial pre shared secret captured by Wireshark
+* [Network cheat sheets] (https://packetlife.net/library/cheat-sheets/) Cheat sheets for Wireshark display filters, tcpdump, IPv4 subnetting and more!
+* [Discovery tools](https://github.com/redhuntlabs/Awesome-Asset-Discovery) Good list of discovery tools, online and on-prem. domain, ssl, network, OSINT
+* [BotSentinel](https://botsentinel.com/) BotSentinel is an OSINT tool to help judge if twitter account is a bot.
