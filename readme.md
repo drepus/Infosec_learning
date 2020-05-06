@@ -14,3 +14,4 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [Network cheat sheets](https://packetlife.net/library/cheat-sheets/) Cheat sheets for Wireshark display filters, tcpdump, IPv4 subnetting and more!
 * [Discovery tools](https://github.com/redhuntlabs/Awesome-Asset-Discovery) Good list of discovery tools, online and on-prem. domain, ssl, network, OSINT
 * [BotSentinel](https://botsentinel.com/) BotSentinel is an OSINT tool to help judge if twitter account is a bot.
+* [BruteShark](https://github.com/odedshimon/BruteShark) PCAP analysis: extract hashes, maps network, lists out sessions
