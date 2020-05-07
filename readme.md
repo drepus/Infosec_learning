@@ -10,6 +10,10 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [Photo Forensic](https://29a.ch/photo-forensics/#forensic-magnifier) Online photo tool, magnify and analyze
 * [HackerSteg](https://manytools.org/hacker-tools/) Stegonography tools but some other spiffy functions like ascii art/banners.
 
+## CTFs
+* [PicoCTF](https://picoctf.com/)                   Pretty well known, run out of CMU
+* [CTF.Live](https://www.ctf.live/)                 Free ongoing CTF from Pentester Academy, must sign in with Google
+* [High School CTF](https://hsctf.com/)             For HS by HS @hsctf on Twitter, June 1-5, 2020
 ----------------------------------------------------------------------------------------------------------------------------
 # Infosec Tools
 * [Burp decrypting/analyzing TLS without MITM](https://blog.silentsignal.eu/2020/05/04/decrypting-and-analyzing-https-traffic-without-mitm/) Burp suite add in that can import initial pre shared secret captured by Wireshark
