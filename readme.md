@@ -7,6 +7,8 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [Rumkin](http://rumkin.com/tools/cipher/)         Ciphers for encryption/decryption
 * [CyberChef](https://gchq.github.io/CyberChef/)    Compose recipies for translation between different encoding schemes.
 * [Hash Analyzer](https://www.tunnelsup.com/hash-analyzer/) If you have a hash but don't know what kind it is, MD5, SHA1, MD5-crypt
+* [Photo Forensic](https://29a.ch/photo-forensics/#forensic-magnifier) Online photo tool, magnify and analyze
+* [HackerSteg](https://manytools.org/hacker-tools/) Stegonography tools but some other spiffy functions like ascii art/banners.
 
 ----------------------------------------------------------------------------------------------------------------------------
 # Infosec Tools
@@ -15,4 +17,7 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [Discovery tools](https://github.com/redhuntlabs/Awesome-Asset-Discovery) Good list of discovery tools, online and on-prem. domain, ssl, network, OSINT
 * [BotSentinel](https://botsentinel.com/) BotSentinel is an OSINT tool to help judge if twitter account is a bot.
 * [BruteShark](https://github.com/odedshimon/BruteShark) PCAP analysis: extract hashes, maps network, lists out sessions
-* [HackerSteg](https://manytools.org/hacker-tools/) Stegonography tools but some other spiffy functions like ascii art/banners.
+
+----------------------------------------------------------------------------------------------------------------------------
+# Analysis / Threat Intel
+* [Malware Traffic](http://malware-traffic-analysis.net/2020/index.html) Central site for malware source.
