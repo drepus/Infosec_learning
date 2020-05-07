@@ -15,3 +15,4 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [Discovery tools](https://github.com/redhuntlabs/Awesome-Asset-Discovery) Good list of discovery tools, online and on-prem. domain, ssl, network, OSINT
 * [BotSentinel](https://botsentinel.com/) BotSentinel is an OSINT tool to help judge if twitter account is a bot.
 * [BruteShark](https://github.com/odedshimon/BruteShark) PCAP analysis: extract hashes, maps network, lists out sessions
+* [HackerSteg](https://manytools.org/hacker-tools/) Stegonography tools but some other spiffy functions like ascii art/banners.
