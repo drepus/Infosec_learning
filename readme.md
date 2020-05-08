@@ -22,6 +22,10 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [BotSentinel](https://botsentinel.com/) BotSentinel is an OSINT tool to help judge if twitter account is a bot.
 * [BruteShark](https://github.com/odedshimon/BruteShark) PCAP analysis: extract hashes, maps network, lists out sessions
 
+## Customized OS
+* [Ninjitsu OS](https://ninjutsu-os.github.io/2020/04/18/What-Is-Ninjutsu-OS/)  Customized Windows 10 for red teaming/pentesting
+* [Kali OS](https://www.kali.org/downloads/) Linux based offensive based OS
+* [Commando VM](https://github.com/fireeye/commando-vm) Windows based offensive OS from Mandiant
 ----------------------------------------------------------------------------------------------------------------------------
 # Analysis / Threat Intel
 * [Malware Traffic](http://malware-traffic-analysis.net/2020/index.html) Central site for malware source.
