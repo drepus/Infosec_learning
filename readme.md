@@ -16,6 +16,7 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [High School CTF](https://hsctf.com/)             For HS by HS @hsctf on Twitter, June 1-5, 2020
 ----------------------------------------------------------------------------------------------------------------------------
 # Infosec Tools
+## Tools and Info
 * [Burp decrypting/analyzing TLS without MITM](https://blog.silentsignal.eu/2020/05/04/decrypting-and-analyzing-https-traffic-without-mitm/) Burp suite add in that can import initial pre shared secret captured by Wireshark
 * [Network cheat sheets](https://packetlife.net/library/cheat-sheets/) Cheat sheets for Wireshark display filters, tcpdump, IPv4 subnetting and more!
 * [Discovery tools](https://github.com/redhuntlabs/Awesome-Asset-Discovery) Good list of discovery tools, online and on-prem. domain, ssl, network, OSINT
@@ -23,6 +24,7 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [BruteShark](https://github.com/odedshimon/BruteShark) PCAP analysis: extract hashes, maps network, lists out sessions
 * [SANS 600 List](https://www.sans.org/media/free/free-faculty-tools.pdf?utm_medium=Social&utm_source=Twitter&utm_campaign=Central+Resources) Huge list of tools blue and red team from SANS instructors.  Local copy 2020-05-free-SANS-faculty-tools.pdf, current as of May 2020.
 * [SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/) Central list of SANS cheat sheets, networking, dfir, pentesting.
+* [GDB Frontend](https://www.kitploit.com/2020/05/gdbfrontend-easy-flexible-and.html) GUIish front end for GDB 
 
 ## Customized OS
 * [Ninjitsu OS](https://ninjutsu-os.github.io/2020/04/18/What-Is-Ninjutsu-OS/)  Customized Windows 10 for red teaming/pentesting
@@ -34,3 +36,9 @@ National CyberLeague runs a CTF in the Spring and Fall
 
 # Data
 * [Rapid7 Open Data](https://opendata.rapid7.com/about/) Data set of internet wide scan of IP's, http/ssl info/udp/dns
+
+----------------------------------------------------------------------------------------------------------------------------
+# Con Recordings
+* [PancakesCon - Track 1](https://www.twitch.tv/rallysecurity/video/572878751) RallySec on Twitch, track 1 for PancakesCon (3/22/2020, 9a-6p CST), partial?
+* [PancakesCon - Track 1 alternate](https://www.twitch.tv/stbernaughty/video/572752282) StBernaughty on Twitch, track 1, full?
+
