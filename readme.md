@@ -21,6 +21,7 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [Discovery tools](https://github.com/redhuntlabs/Awesome-Asset-Discovery) Good list of discovery tools, online and on-prem. domain, ssl, network, OSINT
 * [BotSentinel](https://botsentinel.com/) BotSentinel is an OSINT tool to help judge if twitter account is a bot.
 * [BruteShark](https://github.com/odedshimon/BruteShark) PCAP analysis: extract hashes, maps network, lists out sessions
+* [SANS 600 List](https://www.sans.org/media/free/free-faculty-tools.pdf?utm_medium=Social&utm_source=Twitter&utm_campaign=Central+Resources) Huge list of tools blue and red team from SANS instructors.  Local copy 2020-05-free-SANS-faculty-tools.pdf, current as of May 2020.
 
 ## Customized OS
 * [Ninjitsu OS](https://ninjutsu-os.github.io/2020/04/18/What-Is-Ninjutsu-OS/)  Customized Windows 10 for red teaming/pentesting
