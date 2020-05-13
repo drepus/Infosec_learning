@@ -41,4 +41,6 @@ National CyberLeague runs a CTF in the Spring and Fall
 # Con Recordings
 * [PancakesCon - Track 1](https://www.twitch.tv/rallysecurity/video/572878751) RallySec on Twitch, track 1 for PancakesCon (3/22/2020, 9a-6p CST), partial?
 * [PancakesCon - Track 1 alternate](https://www.twitch.tv/stbernaughty/video/572752282) StBernaughty on Twitch, track 1, full?
+* [IntroSecCon](https://www.youtube.com/channel/UCx1Ektc73drCDq6W0tclZ8g) Youtube channel of the sessions, April 25, 2020
+* [Derpcon](https://www.youtube.com/channel/UCzWBL_1WqPWP8-3Oh0XtYKA) Youtube channel of Derpcon.io session, April 30-May1st, 2020
 
