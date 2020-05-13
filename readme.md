@@ -44,3 +44,5 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [IntroSecCon](https://www.youtube.com/channel/UCx1Ektc73drCDq6W0tclZ8g) Youtube channel of the sessions, April 25, 2020
 * [Derpcon](https://www.youtube.com/channel/UCzWBL_1WqPWP8-3Oh0XtYKA) Youtube channel of Derpcon.io session, April 30-May1st, 2020
 
+# System Hardening
+* [Windows 10](https://gist.github.com/mackwage/08604751462126599d7e52f233490efe) Basic windows 10 hardening script
