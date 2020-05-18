@@ -14,6 +14,7 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [PicoCTF](https://picoctf.com/)                   Pretty well known, run out of CMU
 * [CTF.Live](https://www.ctf.live/)                 Free ongoing CTF from Pentester Academy, must sign in with Google
 * [High School CTF](https://hsctf.com/)             For HS by HS @hsctf on Twitter, June 1-5, 2020
+* [Google CTF](https://capturetheflag.withgoogle.com/#beginners/) 2019 Google CTF, still running
 ----------------------------------------------------------------------------------------------------------------------------
 # Infosec Tools
 ## Tools and Info
