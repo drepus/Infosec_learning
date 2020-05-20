@@ -45,6 +45,7 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [PancakesCon - Track 1 alternate](https://www.twitch.tv/stbernaughty/video/572752282) StBernaughty on Twitch, track 1, full?
 * [IntroSecCon](https://www.youtube.com/channel/UCx1Ektc73drCDq6W0tclZ8g) Youtube channel of the sessions, April 25, 2020
 * [Derpcon](https://www.youtube.com/channel/UCzWBL_1WqPWP8-3Oh0XtYKA) Youtube channel of Derpcon.io session, April 30-May1st, 2020
+* [GrimmCon](https://www.youtube.com/channel/UCpYB6eIJB4jBGSAJcAhCMhw/videos) Grimm Cyber channel with GrimmCon recordings\
 
 # System Hardening
 * [Windows 10](https://gist.github.com/mackwage/08604751462126599d7e52f233490efe) Basic windows 10 hardening script
