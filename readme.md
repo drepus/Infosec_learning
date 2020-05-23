@@ -1,4 +1,4 @@
-# Capture The Flag
+# Capture The Flag and Instructional
 
 https://www.nationalcyberleague.org/    
 National CyberLeague runs a CTF in the Spring and Fall
@@ -16,6 +16,9 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [High School CTF](https://hsctf.com/)             For HS by HS @hsctf on Twitter, June 1-5, 2020
 * [Google CTF](https://capturetheflag.withgoogle.com/#beginners/) 2019 Google CTF, still running
 ** [BletchleyPunk Walk Through](https://www.twitch.tv/videos/443233520?collection=QeqYPTHpqhWvig) @bletchleypunk twitch stream on Google CTF
+
+## Instructional sites
+* [Virtual Cyber School](https://gettingstarted.joincyberdiscovery.com/) Has CTF while instructing.
 ----------------------------------------------------------------------------------------------------------------------------
 # Infosec Tools
 ## Tools and Info
