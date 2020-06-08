@@ -52,3 +52,9 @@ National CyberLeague runs a CTF in the Spring and Fall
 
 # System Hardening
 * [Windows 10](https://gist.github.com/mackwage/08604751462126599d7e52f233490efe) Basic windows 10 hardening script
+
+----------------------------------------------------------------------------------------------------------------------------
+## Getting Started
+
+# Powershell
+https://leanpub.com/powershell-4n00bs
