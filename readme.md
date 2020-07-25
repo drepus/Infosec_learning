@@ -19,6 +19,9 @@ National CyberLeague runs a CTF in the Spring and Fall
 
 ## Instructional sites
 * [Virtual Cyber School](https://gettingstarted.joincyberdiscovery.com/) Has CTF while instructing.
+
+## Scholarships
+* [WiCys/SANS: Entering Cybersecurity](https://www.wicys.org/sans-security-training-scholarship)  Google sponsored SANS training for WiCys members
 ----------------------------------------------------------------------------------------------------------------------------
 # Infosec Tools
 ## Tools and Info
