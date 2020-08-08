@@ -22,6 +22,9 @@ National CyberLeague runs a CTF in the Spring and Fall
 
 ## Scholarships
 * [WiCys/SANS: Entering Cybersecurity](https://www.wicys.org/sans-security-training-scholarship)  Google sponsored SANS training for WiCys members
+
+## Personal OpSec
+* [Digital Declutter](https://stopthinkconnect.org/resources/preview/digital-declutter-checklist)  Good practices for your digital life.
 ----------------------------------------------------------------------------------------------------------------------------
 # Infosec Tools
 ## Tools and Info
@@ -44,7 +47,10 @@ National CyberLeague runs a CTF in the Spring and Fall
 
 # Data
 * [Rapid7 Open Data](https://opendata.rapid7.com/about/) Data set of internet wide scan of IP's, http/ssl info/udp/dns
+* [Avoid Ransomware](https://www.nomoreransom.org/en/prevention-advice.html) Good practices to avoid ransomware and links to tools.
 
+# Policy / Frameworks
+* [NICE framework](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center) Framework to describe the actual work involved in the different roles.  Good resource to plan out a team.
 ----------------------------------------------------------------------------------------------------------------------------
 # Con Recordings
 * [PancakesCon - Track 1](https://www.twitch.tv/rallysecurity/video/572878751) RallySec on Twitch, track 1 for PancakesCon (3/22/2020, 9a-6p CST), partial?
