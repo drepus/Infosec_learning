@@ -66,6 +66,9 @@ National CyberLeague runs a CTF in the Spring and Fall
 
 ----------------------------------------------------------------------------------------------------------------------------
 ## Getting Started
+# Free Training
+* [Cybrary](https://www.cybrary.it) Free courses
+* [MCSI](https://platform.mosse-institute.com/#/) Australian Mosse Cyber Security Institute
 
 # Powershell
 https://leanpub.com/powershell-4n00bs
