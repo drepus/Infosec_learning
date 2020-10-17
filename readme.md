@@ -24,6 +24,8 @@ National CyberLeague runs a CTF in the Spring and Fall
 ## Scholarships
 * [WiCys/SANS: Entering Cybersecurity](https://www.wicys.org/sans-security-training-scholarship)  Google sponsored SANS training for WiCys members
 * [CrowdStrike Foundation](https://www.crowdstrike.org/scholarships.html) CrowdStrike Foundation has Nextgen scholarships as well as grant possibilities
+* [ISC2 RVA Chapter](https://iamcybersafe.org/s/rva-chapter-scholarship) ISC2 chapter Richmond VA area, high school/undergrad scholarships
+* [SCE Edison Scholar](https://www.edison.com/home/community/edison-scholars.html) SoCal Edison STEM scholarships - includes Computer Info Sciences
 
 ## Personal OpSec
 * [Digital Declutter](https://stopthinkconnect.org/resources/preview/digital-declutter-checklist)  Good practices for your digital life.
