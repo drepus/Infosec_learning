@@ -25,10 +25,15 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [WiCys/SANS: Entering Cybersecurity](https://www.wicys.org/sans-security-training-scholarship)  Google sponsored SANS training for WiCys members
 * [CrowdStrike Foundation](https://www.crowdstrike.org/scholarships.html) CrowdStrike Foundation has Nextgen scholarships as well as grant possibilities
 * [ISC2 Scholarships](https://iamcybersafe.org/s/scholarships) Variety of scholarship opportunities, graduate and undergrad
-* [SCE Edison Scholar](https://www.edison.com/home/community/edison-scholars.html) SoCal Edison STEM scholarships - includes Computer Info Sciences
+* [SCE Edison Scholar](https://www.edison.com/home/community/edison-scholars.html) SoCal Edison STEM scholarships - includes Computer Info Sciences, check early and often.  By Jan 20 already closed.
 * [Deloitte HBCU](https://www2.deloitte.com/us/en/pages/careers/articles/hbcu-emerging-leaders-scholarship-program.html) Scholarships for business, technology, STEM, HBCU
-* [ESET Women in CyberSecurity](https://iamcybersafe.org/s/scholarships) Scholarships for women, STEM field
+* [ESET Women in CyberSecurity](https://www.eset.com/us/about/newsroom/press-releases/scholarship/) Scholarships for women, STEM field, application period July-August
 * [BHUSA Student Scholarship](https://www.blackhat.com) Each year BlackHat has scholarship for admission to students
+* [ISSA Education Foundation](https://issaef.org/) Scholarship for 2nd-4th yr undergrad and graduate students.
+* [Scholarship Search](https://www.salliemae.com/college-planning/registration/?mode=scholar&lnkid=SM-PlanToolsSS-hero-scholarships/) Sallie Mae search engine
+* [CIA student opportunities](https://www.cia.gov/careers/student-programs/) CIA offers scholarship assistance to students.
+* [Cisco Snort Scholarship](https://snort.org/community/scholarship) Snort scholarship, application period April - May
+* [NSA Stokes Scholarship](https://www.intelligencecareers.gov/NSA/nsastudents.html) Student scholarship program by the NSA, others are also listed for mil orgs.
 
 ## Personal OpSec
 * [Digital Declutter](https://stopthinkconnect.org/resources/preview/digital-declutter-checklist)  Good practices for your digital life.
