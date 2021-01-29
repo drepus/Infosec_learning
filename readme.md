@@ -34,6 +34,13 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [CIA student opportunities](https://www.cia.gov/careers/student-programs/) CIA offers scholarship assistance to students.
 * [Cisco Snort Scholarship](https://snort.org/community/scholarship) Snort scholarship, application period April - May
 * [NSA Stokes Scholarship](https://www.intelligencecareers.gov/NSA/nsastudents.html) Student scholarship program by the NSA, others are also listed for mil orgs.
+* [MS Scholarship Program](https://careers.microsoft.com/students/us/en/usscholarshipprogram) Must be enrolled in a 4 year college, computer STEM
+* [IEEE Richard Merwin Scholarship](https://www.computer.org/volunteering/awards/scholarships/merwin) Must be in final 2 yr of undergrad or grad program and a member of IEEE student branch or chapter
+* [Lint Center Scholarships](https://www.lintcenter.org/scholarships/) Multiple scholarships available, essay required around Counterintelligence, National Security, Nationa Defense; submissions are in Jan and Jul
+* [GE-Reagan Foundation Scholarship](https://www.reaganfoundation.org/education/scholarship-programs/ge-reagan-foundation-scholarship-program/) HS Seniors, need to monitor this for when it goes live, by 1/28 it's already closed.
+* Local chapters of various organizations may have scholarships available, check the local chapter of ISACA, ISSA, ISC2
+
+
 
 ## Personal OpSec
 * [Digital Declutter](https://stopthinkconnect.org/resources/preview/digital-declutter-checklist)  Good practices for your digital life.
