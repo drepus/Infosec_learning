@@ -38,6 +38,7 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [IEEE Richard Merwin Scholarship](https://www.computer.org/volunteering/awards/scholarships/merwin) Must be in final 2 yr of undergrad or grad program and a member of IEEE student branch or chapter
 * [Lint Center Scholarships](https://www.lintcenter.org/scholarships/) Multiple scholarships available, essay required around Counterintelligence, National Security, Nationa Defense; submissions are in Jan and Jul
 * [GE-Reagan Foundation Scholarship](https://www.reaganfoundation.org/education/scholarship-programs/ge-reagan-foundation-scholarship-program/) HS Seniors, need to monitor this for when it goes live, by 1/28 it's already closed.
+* [National Cyber Scholarship](https://www.nationalcyberscholarship.org/) Scholarships for HS and College students if they qualify through competition.
 * Local chapters of various organizations may have scholarships available, check the local chapter of ISACA, ISSA, ISC2
 
 
