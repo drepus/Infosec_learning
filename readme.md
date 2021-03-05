@@ -93,3 +93,11 @@ National CyberLeague runs a CTF in the Spring and Fall
 
 # Powershell
 https://leanpub.com/powershell-4n00bs
+
+----------------------------------------------------------------------------------------------------------------------------
+## Fun Learning
+# Backdoors and Breaches
+* [Dashboard](https://github.com/p3hndrx/B-B-Shuffle) Dashboard to manage games over zoom, can roll, shuffle, turn over cards.
+* [Online version](https://github.com/FirmGuardian/backdoors-and-breaches-pcio) Use this file with playingcards.io to run a game
+* [Powershell version](https://github.com/TheShiShiLion/BackdoorsAndBreaches) This game is based on powershell, a little more complicated to get up and running.
+* [Steam Version](https://steamcommunity.com/sharedfiles/filedetails/?id=2401033477) Purchase Tabletop Simulator then you can load these files.
