@@ -60,8 +60,9 @@ National CyberLeague runs a CTF in the Spring and Fall
 
 ## Customized OS
 * [Ninjitsu OS](https://ninjutsu-os.github.io/2020/04/18/What-Is-Ninjutsu-OS/)  Customized Windows 10 for red teaming/pentesting
-* [Kali OS](https://www.kali.org/downloads/) Linux based offensive based OS
+* [Kali OS](https://www.kali.org/downloads/) Linux based offensive based OSh
 * [Commando VM](https://github.com/fireeye/commando-vm) Windows based offensive OS from Mandiant
+* [Onworks](https://onworks.net) Free Linux VMs online, hosted VM's that you remote control via the browser.
 ----------------------------------------------------------------------------------------------------------------------------
 # Analysis / Threat Intel
 * [Malware Traffic](http://malware-traffic-analysis.net/2020/index.html) Central site for malware source.
