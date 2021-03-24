@@ -22,6 +22,7 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [Blog about cryptography in CTFs](https://charcharbinks.com/post/ctf_crypto_for_beginners/) Basic instruction on cryptography.
 * [Here Be Dragons: Reverse Engineering with Ghidra](https://www.shogunlab.com/blog/2019/04/12/here-be-dragons-ghidra-0.html) Learn how to use Ghidra for reverse engineering.
 * [Cyber Threat Intel Study Plan](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a) Self-study plan by Katie Nickels for Cyber Threat Intelligence
+* [Linux Guide - Reference](https://www.tutorialspoint.com/linux_admin/index.htm) Instructional site, section on Linux Admin; complete sections on SED, Unix, and shell scripting tutorial
 
 ## Scholarships
 * [WiCys/SANS: Entering Cybersecurity](https://www.wicys.org/sans-security-training-scholarship)  Google sponsored SANS training for WiCys members
