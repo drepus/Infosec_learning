@@ -105,7 +105,8 @@ https://leanpub.com/powershell-4n00bs
 
 # Enumeration and Exploitation
 * [Getting Started with x64dbg](https://www.varonis.com/blog/how-to-use-x64dbg/) Intro to a free Windows debugger, 1st of 4 part series
-* [Unpacking Malware](https://www.varonis.com/blog/x64dbg-unpack-malware/) 2 of 4 part series
+* [Unpacking Malware](https://www.varonis.com/blog/x64dbg-unpack-malware/) Intro to a free Windows debugger, 2 of 4 part series
+* [Stack Memory](https://www.varonis.com/blog/stack-memory-3/) Intro to a free Windows debugger, 3 of 4 part series
 
 # Forensics
 * [How to use Autoruns](https://www.varonis.com/blog/how-to-use-autoruns/) Sysinternals tool is very helpful to find malware persistence.
