@@ -97,6 +97,12 @@ National CyberLeague runs a CTF in the Spring and Fall
 # Powershell
 https://leanpub.com/powershell-4n00bs
 
+# Networking
+* [Wireshark Tutorial - Customize columns](https://unit42.paloaltonetworks.com/unit42-customizing-wireshark-changing-column-display/} Start of tutorial series
+* [Wireshark Tutorial - Identify Hosts and Users](https://unit42.paloaltonetworks.com/using-wireshark-identifying-hosts-and-users/)
+* [Wireshark Tutorial - Display filters](https://unit42.paloaltonetworks.com/using-wireshark-display-filter-expressions/) Useful to cut down list of packets
+* [Wireshark Tutorial - Exporting objects from PCAP](https://unit42.paloaltonetworks.com/using-wireshark-exporting-objects-from-a-pcap/) Extract binaries from pcap
+
 # Enumeration and Exploitation
 * [Getting Started with x64dbg](https://www.varonis.com/blog/how-to-use-x64dbg/) Intro to a free Windows debugger, 1st of 4 part series
 * [Unpacking Malware](https://www.varonis.com/blog/x64dbg-unpack-malware/) 2 of 4 part series
