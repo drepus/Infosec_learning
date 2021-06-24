@@ -42,6 +42,7 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [Lint Center Scholarships](https://www.lintcenter.org/scholarships/) Multiple scholarships available, essay required around Counterintelligence, National Security, Nationa Defense; submissions are in Jan and Jul
 * [GE-Reagan Foundation Scholarship](https://www.reaganfoundation.org/education/scholarship-programs/ge-reagan-foundation-scholarship-program/) HS Seniors, need to monitor this for when it goes live, by 1/28 it's already closed.
 * [National Cyber Scholarship](https://www.nationalcyberscholarship.org/) Scholarships for HS and College students if they qualify through competition.
+* [Aaron Barrnett Memorial Scholarship](https://aaronbarnettfoundation.org/page/aaron-barnett-memorial-scholarship) For seniors, there are other criteria for application.
 * Local chapters of various organizations may have scholarships available, check the local chapter of ISACA, ISSA, ISC2
 
 
