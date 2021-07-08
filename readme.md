@@ -43,6 +43,7 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [GE-Reagan Foundation Scholarship](https://www.reaganfoundation.org/education/scholarship-programs/ge-reagan-foundation-scholarship-program/) HS Seniors, need to monitor this for when it goes live, by 1/28 it's already closed.
 * [National Cyber Scholarship](https://www.nationalcyberscholarship.org/) Scholarships for HS and College students if they qualify through competition.
 * [Aaron Barrnett Memorial Scholarship](https://aaronbarnettfoundation.org/page/aaron-barnett-memorial-scholarship) For seniors, there are other criteria for application.
+* [US govt Scholarship For Service (SFS)](https://www.sfs.opm.gov/) Can have 3 years of tuition + stipend for undergrad and grad in return for equal number of years of service.
 * Local chapters of various organizations may have scholarships available, check the local chapter of ISACA, ISSA, ISC2
 
 
