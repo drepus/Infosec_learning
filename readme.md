@@ -46,7 +46,8 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [US govt Scholarship For Service (SFS)](https://www.sfs.opm.gov/) Can have 3 years of tuition + stipend for undergrad and grad in return for equal number of years of service.
 * Local chapters of various organizations may have scholarships available, check the local chapter of ISACA, ISSA, ISC2
 
-
+## Camps
+* [NSF GenCyber program camps](https://www.gen-cyber.com/camps/) Camps - mostly in the summer, for K-12.
 
 ## Personal OpSec
 * [Digital Declutter](https://stopthinkconnect.org/resources/preview/digital-declutter-checklist)  Good practices for your digital life.
