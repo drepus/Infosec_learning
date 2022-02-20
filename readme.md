@@ -62,6 +62,7 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [SANS 600 List](https://www.sans.org/media/free/free-faculty-tools.pdf?utm_medium=Social&utm_source=Twitter&utm_campaign=Central+Resources) Huge list of tools blue and red team from SANS instructors.  Local copy 2020-05-free-SANS-faculty-tools.pdf, current as of May 2020.
 * [SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/) Central list of SANS cheat sheets, networking, dfir, pentesting.
 * [GDB Frontend](https://www.kitploit.com/2020/05/gdbfrontend-easy-flexible-and.html) GUIish front end for GDB 
+* [CISA list of services and tools](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/18/cisa-compiles-free-cybersecurity-services-and-tools-network) CISA compiled a list of free services and tools for infosec.
 
 ## Customized OS
 * [Ninjitsu OS](https://ninjutsu-os.github.io/2020/04/18/What-Is-Ninjutsu-OS/)  Customized Windows 10 for red teaming/pentesting
