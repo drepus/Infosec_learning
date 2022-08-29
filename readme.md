@@ -38,6 +38,7 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [Cisco Snort Scholarship](https://snort.org/community/scholarship) Snort scholarship, application period April - May
 * [NSA Stokes Scholarship](https://www.intelligencecareers.gov/NSA/nsastudents.html) Student scholarship program by the NSA, others are also listed for mil orgs.
 * [MS Scholarship Program](https://careers.microsoft.com/students/us/en/usscholarshipprogram) Must be enrolled in a 4 year college, computer STEM
+* [MS Last Mile - Community College](https://www.lastmile-ed.org/microsoftcybersecurityscholarship) Community college cybersecurity program, in need
 * [IEEE Richard Merwin Scholarship](https://www.computer.org/volunteering/awards/scholarships/merwin) Must be in final 2 yr of undergrad or grad program and a member of IEEE student branch or chapter
 * [Lint Center Scholarships](https://www.lintcenter.org/scholarships/) Multiple scholarships available, essay required around Counterintelligence, National Security, Nationa Defense; submissions are in Jan and Jul
 * [GE-Reagan Foundation Scholarship](https://www.reaganfoundation.org/education/scholarship-programs/ge-reagan-foundation-scholarship-program/) HS Seniors, need to monitor this for when it goes live, by 1/28 it's already closed.
@@ -114,7 +115,9 @@ https://leanpub.com/powershell-4n00bs
 
 # Forensics
 * [How to use Autoruns](https://www.varonis.com/blog/how-to-use-autoruns/) Sysinternals tool is very helpful to find malware persistence.
-* 
+
+# Reading References
+* [Hitchhikers Guide to DFIR](https://leanpub.com/TheHitchhikersGuidetoDFIRExperiencesFromBeginnersandExperts) Crowdsourced book from DFIR Discord, FREE
 ----------------------------------------------------------------------------------------------------------------------------
 ## Fun Learning
 # Backdoors and Breaches
