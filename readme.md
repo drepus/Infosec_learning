@@ -64,7 +64,8 @@ National CyberLeague runs a CTF in the Spring and Fall
 * [SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/) Central list of SANS cheat sheets, networking, dfir, pentesting.
 * [GDB Frontend](https://www.kitploit.com/2020/05/gdbfrontend-easy-flexible-and.html) GUIish front end for GDB 
 * [CISA list of services and tools](https://www.cisa.gov/uscert/ncas/current-activity/2022/02/18/cisa-compiles-free-cybersecurity-services-and-tools-network) CISA compiled a list of free services and tools for infosec.
-
+* [Azure GOAT](https://github.com/ine-labs/AzureGoat#getting-started) Vulnerable by design Azure infrastructure
+* [AWS GOAT](https://github.com/ine-labs/AWSGoat) Vulnerable by design AWS infrastructure
 ## Customized OS
 * [Ninjitsu OS](https://ninjutsu-os.github.io/2020/04/18/What-Is-Ninjutsu-OS/)  Customized Windows 10 for red teaming/pentesting
 * [Kali OS](https://www.kali.org/downloads/) Linux based offensive based OSh
